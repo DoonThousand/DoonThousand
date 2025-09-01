@@ -3,7 +3,8 @@
 👨‍💻 I'm learning to code and soon I'll be a Junior Developer. Studying through Mate Academy — the journey’s just getting started! 🚀
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DoonThousand&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DoonThousand&theme=dark&hide_border=true)<br/>
