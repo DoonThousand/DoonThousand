@@ -1,6 +1,6 @@
 ## Hi,I'm DoonThousand👋
 
-👨‍💻 I'm learning to code and soon I'll be a Junior Developer. Studying through Mate Academy — the journey’s just getting started! 🚀
+👨‍💻 I'm learning to code 🚀
 
 # 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
