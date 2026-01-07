@@ -36,10 +36,10 @@
 <a href=-">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=61565647642109">
+<a href="-">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-<a href="mailto:pan2512811@gmail.com">
+<a href="sarkisiamnvalera@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
