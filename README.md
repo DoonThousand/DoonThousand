@@ -24,7 +24,7 @@
 <br><br>
 
 - :school:I'm Student (https://knute.edu.ua/)
-- :technologist: I like using software to solve problems  
+- :technologist: I enjoy using AI to solve coding problems 
 - :nerd_face: Always learning new things  
 - :boom: Contact me on social networks below  
 
