@@ -33,8 +33,9 @@
 ## <picture><img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
 
 <p align="center">  
-<a href="https://discord.com/users/anan_1412kdz">
-  <img src="https://discord.com/channels/@me/775624816949854298"
+<a href="https://discord.com/users/𝐄𝐯𝐢𝐥 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 <a href="https://www.facebook.com/profile.php?id=61565647642109">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
