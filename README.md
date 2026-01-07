@@ -23,7 +23,7 @@
 
 <br><br>
 
-- :school: Student  
+- :school:I'm Student (https://knute.edu.ua/)
 - :technologist: I like using software to solve problems  
 - :nerd_face: Always learning new things  
 - :boom: Contact me on social networks below  
