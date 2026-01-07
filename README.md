@@ -34,8 +34,7 @@
 
 <p align="center">  
 <a href="https://discord.com/users/anan_1412kdz">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+  <img src="https://discord.com/channels/@me/775624816949854298"
 <a href="https://www.facebook.com/profile.php?id=61565647642109">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
