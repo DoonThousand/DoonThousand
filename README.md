@@ -109,9 +109,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoonThousand&layout=compact&theme=tokyonight"/>
 </p>
----
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DoonThousand/DoonThousand/output/github-contribution-grid-snake.svg"/>
-</p>
