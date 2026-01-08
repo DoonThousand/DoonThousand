@@ -88,9 +88,10 @@
 
 ## 🎧 Spotify Playing
 
+<h3 align="center">🎵 Now Playing</h3>
 <p align="center">
   <a href="https://open.spotify.com/user/31wfdr6735nhbvoth2m2ezuedjnq">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=novatorem"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interact=true" />
   </a>
 </p>
 
