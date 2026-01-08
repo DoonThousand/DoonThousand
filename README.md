@@ -13,100 +13,48 @@
 
 ---
 
-## 👤 About me
-
-<img align="right" width="240" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Right_Side.gif?raw=true"/>
-
-- 🎓 Student at [KNUTE](https://knute.edu.ua/)
-- 🤖 I enjoy using AI to solve coding problems
-- 📚 Always learning new things
-- 🧠 Interested in Python & cybersecurity
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="mailto:sarkisiamnvalera@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🧑‍💻 Programming Language
-
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🛠 Software
-
-<p align="center">
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💻 Developer Tools
-
-<p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🐧 Operating System
-
-<p align="center">
-  <a href="https://www.kali.org/">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🎧 Spotify Playing
 
-<h3 align="center">🎵 Now Playing</h3>
-<p align="center">
-  <a href="https://open.spotify.com/user/31wfdr6735nhbvoth2m2ezuedjnq">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interact=true" />
-  </a>
-</p>
+<details open>
+  <summary>Now Playing</summary>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=novatorem&show_offline=false"/>
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoonThousand&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoonThousand&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+### 💻 GitHub Profile Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoonThousand&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DoonThousand&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoonThousand&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+---
+
+### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoonThousand&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoonThousand&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DoonThousand&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://github.com/DoonThousand/DoonThousand/blob/output/github-contribution-grid-snake.svg"/>
 </p>
