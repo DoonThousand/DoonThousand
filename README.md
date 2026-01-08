@@ -96,9 +96,42 @@
 
 ---
 
+## 🎧 Spotify — Now Playing
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wfdr6735nhbvoth2m2ezuedjnq&count=1&unique=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoonThousand&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 💻 GitHub Profile Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DoonThousand&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoonThousand&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+### 📂 My Repositories
+<p align="center">
+  <a href="https://github.com/DoonThousand">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoonThousand&repo=DoonThousand&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
   <img src="https://github.com/DoonThousand/DoonThousand/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
-
